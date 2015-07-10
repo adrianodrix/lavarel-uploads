@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+./idea
+./storage
+.env.examples
+artisan
+

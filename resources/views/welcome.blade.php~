@@ -1,0 +1,9 @@
+@extends('template')
+
+@section('title')Uploads App @endsection
+
+@section('content')
+
+Bem Vindo!
+
+@stop
